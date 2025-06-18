@@ -1,0 +1,106 @@
+.
+├── AaveRegistry.full.abi
+├── AaveRegistry.full.bin
+├── AaveRegistry.full.sol
+├── BalancerHelper.full.abi
+├── BalancerHelper.full.bin
+├── BalancerHelper.full.sol
+├── BancorFinder.full.abi
+├── BancorFinder.full.bin
+├── BancorFinder.full.sol
+├── CompoundRegistry.full.abi
+├── CompoundRegistry.full.bin
+├── CompoundRegistry.full.sol
+├── contracts
+│   ├── 1inchProtocol-audit.pdf
+│   ├── AaveRegistry.sol
+│   ├── BalancerHelper.sol
+│   ├── BalancerLib.sol
+│   ├── BancorFinder.sol
+│   ├── CompoundRegistry.sol
+│   ├── interface
+│   │   ├── IAaveRegistry.sol
+│   │   ├── IAaveToken.sol
+│   │   ├── IBalancerPool.sol
+│   │   ├── IBalancerRegistry.sol
+│   │   ├── IBancorContractRegistry.sol
+│   │   ├── IBancorConverterRegistry.sol
+│   │   ├── IBancorEtherToken.sol
+│   │   ├── IBancorFinder.sol
+│   │   ├── IBancorNetworkPathFinder.sol
+│   │   ├── IBancorNetwork.sol
+│   │   ├── IBdai.sol
+│   │   ├── IChai.sol
+│   │   ├── ICompoundRegistry.sol
+│   │   ├── ICompound.sol
+│   │   ├── ICurve.sol
+│   │   ├── IDForceSwap.sol
+│   │   ├── IDMM.sol
+│   │   ├── IFulcrum.sol
+│   │   ├── IIdle.sol
+│   │   ├── IIearn.sol
+│   │   ├── IKyberHintHandler.sol
+│   │   ├── IKyberNetworkContract.sol
+│   │   ├── IKyberNetworkProxy.sol
+│   │   ├── IKyberOasisReserve.sol
+│   │   ├── IKyberStorage.sol
+│   │   ├── IMooniswap.sol
+│   │   ├── IMStable.sol
+│   │   ├── IOasisExchange.sol
+│   │   ├── IShell.sol
+│   │   ├── ISmartTokenConverter.sol
+│   │   ├── ISmartTokenFormula.sol
+│   │   ├── ISmartTokenRegistry.sol
+│   │   ├── ISmartToken.sol
+│   │   ├── IUniswapExchange.sol
+│   │   ├── IUniswapFactory.sol
+│   │   ├── IUniswapV2Exchange.sol
+│   │   ├── IUniswapV2Factory.sol
+│   │   └── IWETH.sol
+│   ├── IOneSplit.sol
+│   ├── Migrations.sol
+│   ├── OneSplitAave.sol
+│   ├── OneSplitAudit.sol
+│   ├── OneSplitBase.sol
+│   ├── OneSplitBdai.sol
+│   ├── OneSplitChai.sol
+│   ├── OneSplitCompound.sol
+│   ├── OneSplitDMM.sol
+│   ├── OneSplitFulcrum.sol
+│   ├── OneSplitIdle.sol
+│   ├── OneSplitIearn.sol
+│   ├── OneSplitMooniswapPoolToken.sol
+│   ├── OneSplitMStable.sol
+│   ├── OneSplit.sol
+│   ├── OneSplitWeth.sol
+│   └── UniversalERC20.sol
+├── doc
+│   └── folder.txt
+├── img
+│   ├── howitworks.png
+│   └── howtouseit.png
+├── KyberReserves.md
+├── LICENSE
+├── migrations
+│   └── 1_initial_migration.js
+├── OneSplitAudit.full.abi
+├── OneSplitAudit.full.bin
+├── OneSplitAudit.full.sol
+├── OneSplit.full.abi
+├── OneSplit.full.bin
+├── OneSplit.full.sol
+├── OneSplitView.full.abi
+├── OneSplitView.full.bin
+├── OneSplitView.full.sol
+├── package.json
+├── README.md
+├── scripts
+│   ├── coverage.sh
+│   └── test.sh
+├── solhint.json
+├── test
+│   └── OneSplit.js
+├── truffle-config.js
+└── yarn.lock
+
+8 directories, 96 files
